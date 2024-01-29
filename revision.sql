@@ -1,3 +1,3 @@
 create database test;
 use test;
-create 
+create table
